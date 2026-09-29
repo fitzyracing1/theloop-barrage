@@ -1,2 +1,5 @@
 # theloop-barrage
-Barrage plain-language clone of fitzyracing1/theloop
+
+Barrage clone of [fitzyracing1/theloop](https://github.com/fitzyracing1/theloop).
+
+Read [listing.barrage](listing.barrage).

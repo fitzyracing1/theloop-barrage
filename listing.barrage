@@ -1,0 +1,41 @@
+# theloop
+
+> Swift repo for The Loop / Loopa idea: a proximity alert when someone you are with walks away.
+
+## Purpose
+Explain theloop as the Swift door for the group-safety loop app. Source: fitzyracing1/theloop.
+
+## How it works (plain English)
+1. Keep people in a loop.
+2. Notice if one walks away.
+3. Alert the others.
+4. Code lives in this Swift repo.
+
+## Key ideas
+- Loop / Loopa (group proximity)
+- Walk-away alert
+- Swift source
+
+## The actual code
+```
+# source: fitzyracing1/theloop
+watch_group()
+if walked_away: alert()
+```
+
+## Line-by-line translation
+1. watch_group() → “keep the people in the loop”
+2. if walked_away: alert() → “ping if one leaves”
+
+## Decisions the program makes
+- If someone leaves the loop → alert
+- If all stay → stay quiet
+
+## What a person would notice
+A safety loop, not a social feed.
+
+## Current status
+Barrage clone.
+
+## Next possible steps
+Open the Swift source.
